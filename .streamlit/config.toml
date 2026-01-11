@@ -1,0 +1,3 @@
+[server]
+# 파일 업로드 용량 제한을 1000MB(1GB)로 늘립니다.
+maxUploadSize = 1000
